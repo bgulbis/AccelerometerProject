@@ -646,7 +646,7 @@ Description of Naming Schema:
 This variable contains the average of the mean frequency domain signal from the accelerometer using the body acceleration signal along the x-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -658,7 +658,7 @@ Description of Naming Schema:
 This variable contains the average of the mean frequency domain signal from the accelerometer using the body acceleration signal along the y-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -670,7 +670,7 @@ Description of Naming Schema:
 This variable contains the average of the mean frequency domain signal from the accelerometer using the body acceleration signal along the z-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -682,7 +682,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation frequency domain signal from the accelerometer using the body acceleration signal along the x-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -694,7 +694,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation frequency domain signal from the accelerometer using the body acceleration signal along the y-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -706,7 +706,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation frequency domain signal from the accelerometer using the body acceleration signal along the z-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -718,7 +718,7 @@ Description of Naming Schema:
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the x-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -731,7 +731,7 @@ Description of Naming Schema:
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the y-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -744,7 +744,7 @@ Description of Naming Schema:
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the z-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -757,7 +757,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the x-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -770,7 +770,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the y-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -783,7 +783,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the z-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -796,7 +796,7 @@ Description of Naming Schema:
 This variable contains the average of the mean frequency domain signal from the gyroscope using the body acceleration signal along the x-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -808,7 +808,7 @@ Description of Naming Schema:
 This variable contains the average of the mean frequency domain signal from the gyroscope using the body acceleration signal along the y-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -820,7 +820,7 @@ Description of Naming Schema:
 This variable contains the average of the mean frequency domain signal from the gyroscope using the body acceleration signal along the z-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -832,7 +832,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation frequency domain signal from the gyroscope using the body acceleration signal along the x-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -844,7 +844,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation frequency domain signal from the gyroscope using the body acceleration signal along the y-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -856,7 +856,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation frequency domain signal from the gyroscope using the body acceleration signal along the z-axis.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -868,7 +868,7 @@ Description of Naming Schema:
 This variable contains the average of the mean of the magnitude signal (calculated using the Euclidean norm) for the frequency domain from the accelerometer using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -880,7 +880,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation of the magnitude signal (calculated using the Euclidean norm) for the frequency domain from the accelerometer using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -892,7 +892,7 @@ Description of Naming Schema:
 This variable contains the average of the mean of the magnitude (calculated using the Euclidean norm) of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -905,7 +905,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation of the magnitude (calculated using the Euclidean norm) of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -918,7 +918,7 @@ Description of Naming Schema:
 This variable contains the average of the mean of the magnitude signal (calculated using the Euclidean norm) for the frequency domain from the gyroscope using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -930,7 +930,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation of the magnitude signal (calculated using the Euclidean norm) for the frequency domain from the gyroscope using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -942,7 +942,7 @@ Description of Naming Schema:
 This variable contains the average of the mean of the magnitude (calculated using the Euclidean norm) of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the gyroscope using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
@@ -955,7 +955,7 @@ Description of Naming Schema:
 This variable contains the average of the standard deviation of the magnitude (calculated using the Euclidean norm) of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the gyroscope using the body acceleration signal.
 
 Class: numeric
-Unit of Measure: seconds
+Unit of Measure: Hz
 Description of Naming Schema:
 - signal domain: frequency
 - sensor acceleration signal: body
