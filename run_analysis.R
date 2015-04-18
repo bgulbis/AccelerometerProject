@@ -6,7 +6,7 @@
 ## 2. For each measurement, extracts the mean and standard deviation measures.
 ## 3. Renames the activities using descriptive activity names.
 ## 4. Labels the data set columns with descriptive variable names. 
-## 5. Creates a tidy data set with the average of each variable for each 
+## 5. Creates a tidy data set in a wide form with the average of each variable for each 
 ##    activity and each subject.
 
 ## The data for this script was obtained from: 

@@ -56,7 +56,7 @@ The following steps are taken to clean the data a create the tidy data set:
 For more information, please see README.md
  
 ##Description of the variables in the tidy_data.txt file
-The data set contained in the tidy_data.txt file contains 180 observations of 68 variables. The variables contain the average of each measurement from the original data which was a mean or standard deviation, grouped by activity and subject.
+The data set contained in the tidy_data.txt file uses a wide form of tidy data which contains 180 observations of 68 variables. The variables contain the average of each measurement from the original data which was a mean or standard deviation, grouped by activity and subject.
 
 The variables in the data set are:
 1. person

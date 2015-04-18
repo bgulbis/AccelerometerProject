@@ -33,5 +33,5 @@ This script performs the following actions:
 - axis: x-axis, y-axis, or z-axis
 
 5. Creates a tidy data set with the average of each variable for each activity and each subject.
-- The combined data set is grouped by person and then by activity, and then the average is calculated for each mean and standard deviation measurement. The resulting data set is output in a text file called tidy_data.txt which can be used for future analysis. 
+- The combined data set is grouped by person and then by activity, and then the average is calculated for each mean and standard deviation measurement. The resulting data set is output in a wide form of tidy data into a text file called tidy_data.txt which can be used for future analysis. 
 
