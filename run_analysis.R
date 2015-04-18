@@ -41,7 +41,7 @@ dataSbj <- bind_rows(testSbj, trainSbj) %>% rename(person = V1)
 ftr <- read.table("UCI HAR Dataset/features.txt")
 
 ## Get the labels for each activity from activity_labels.txt which will be used
-## to make descriptive column names. Format all the labels as lower-case.
+## to make descriptive activity names. Format all the labels as lower-case.
 act <- read.table("UCI HAR Dataset/activity_labels.txt")
 act[[2]] <- tolower(act[[2]])
 

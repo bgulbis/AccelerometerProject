@@ -135,7 +135,7 @@ Class: Factor
 Levels: 30 (1 to 30)
 
 ###Variable 2: activity
-This variable contains the activity number.
+This variable contains the description of the activity.
 
 Class: Factor
 Levels: 6
