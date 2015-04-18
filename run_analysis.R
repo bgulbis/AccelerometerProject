@@ -73,6 +73,8 @@ Xnames <- gsub("mag", "-magnitude", Xnames)
 Xnames <- gsub("x$", "x-axis", Xnames)
 Xnames <- gsub("y$", "y-axis", Xnames)
 Xnames <- gsub("z$", "z-axis", Xnames)
+## Fix those names which contain body twice
+Xnames <- gsub("bodybody", "body", Xnames)
 
 ## Select only those columns that have mean or standard deviation.
 data <- select(dataX, keepX) 
@@ -96,6 +98,6 @@ tidy <- group_by(data, person, activity) %>%
             summarise_each(funs(mean))
 
 ## Outupt the tidy data into a text file.
-write.table(tidy, "tidydata.txt", row.names=FALSE)
+write.table(tidy, "tidy_data.txt", row.names=FALSE)
 
 ## End of the script
