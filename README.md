@@ -14,15 +14,19 @@ The following steps should be taken to create the tidy data file:
 This script performs the following actions:
 
 1. Merges the training and the test data sets to create one data set.
+   
    The data for the test and train data sets are each contained in 3 files that make up the set: x\_test.txt, y\_test.txt, and subject\_test.txt. These files are read in and then the x, y, and subject data for test and train are combined.
 
 2. For each measurement, extracts the mean and standard deviation measures.
+   
    Only the columns which contain mean and standard deviation measures are retained in the tidy data. Columns such as "meanFreq" are not considered to be measures of mean and are not included.
 
 3. Renames the activities using descriptive activity names.
+   
    There were six activities performed by the subjects: walking, walking upstairs, walking downstairs, sitting, standing, and laying. The activity variable is changed from using a numeric value to indicate which activity was performed to a descriptive activity name of the factor class. The descriptive activity names were taken from the activity_labels.txt file. 
 
 4. Labels the data set columns with descriptive variable names. 
+   
    The column names for all of the measurement vairables are changed to more descriptive names. The descriptive naming schema used includes up to six parts:
    
   * Signal domain: time or frequency
@@ -34,5 +38,6 @@ This script performs the following actions:
   * Axis: x-axis, y-axis, or z-axis
 
 5. Creates a tidy data set with the average of each variable for each activity and each subject.
+   
    The combined data set is grouped by person and then by activity, and then the average is calculated for each mean and standard deviation measurement. The resulting data set is output in a wide form of tidy data into a text file called tidy_data.txt which can be used for future analysis. 
 
