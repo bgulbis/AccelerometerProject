@@ -157,7 +157,7 @@ This variable contains the average of the mean time domain signal from the accel
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 4: time-body-accelerometer-mean-y-axis                     
 This variable contains the average of the mean time domain signal from the accelerometer for the body acceleration signal along the y-axis.
@@ -169,7 +169,7 @@ This variable contains the average of the mean time domain signal from the accel
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 5: time-body-accelerometer-mean-z-axis                     
 This variable contains the average of the mean time domain signal from the accelerometer for the body acceleration signal along the z-axis.
@@ -181,7 +181,7 @@ This variable contains the average of the mean time domain signal from the accel
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 6: time-body-accelerometer-standdev-x-axis                 
 This variable contains the average of the standard deviation of the time domain signal from the accelerometer for the body acceleration signal along the x-axis.
@@ -193,7 +193,7 @@ This variable contains the average of the standard deviation of the time domain 
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 7: time-body-accelerometer-standdev-y-axis                 
 This variable contains the average of the standard deviation of the time domain signal from the accelerometer for the body acceleration signal along the y-axis.
@@ -205,7 +205,7 @@ This variable contains the average of the standard deviation of the time domain 
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 8: time-body-accelerometer-standdev-z-axis                 
 This variable contains the average of the standard deviation of the time domain signal from the accelerometer for the body acceleration signal along the z-axis.
@@ -217,7 +217,7 @@ This variable contains the average of the standard deviation of the time domain 
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 9: time-gravity-accelerometer-mean-x-axis                  
 This variable contains the average of the mean of the time domain signal from the accelerometer for the gravity acceleration signal along the x-axis.
@@ -229,7 +229,7 @@ This variable contains the average of the mean of the time domain signal from th
   * Sensor acceleration signal: gravity
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 10: time-gravity-accelerometer-mean-y-axis                  
 This variable contains the average of the mean of the time domain signal from the accelerometer for the gravity acceleration signal along the y-axis.
@@ -241,7 +241,7 @@ This variable contains the average of the mean of the time domain signal from th
   * Sensor acceleration signal: gravity
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 11: time-gravity-accelerometer-mean-z-axis                  
 This variable contains the average of the mean of the time domain signal from the accelerometer for the gravity acceleration signal along the z-axis.
@@ -253,7 +253,7 @@ This variable contains the average of the mean of the time domain signal from th
   * Sensor acceleration signal: gravity
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 12: time-gravity-accelerometer-standdev-x-axis              
 This variable contains the average of the standard deviation of the time domain signal from the accelerometer for the gravity acceleration signal along the x-axis.
@@ -265,7 +265,7 @@ This variable contains the average of the standard deviation of the time domain 
   * Sensor acceleration signal: gravity
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 13: time-gravity-accelerometer-standdev-y-axis              
 This variable contains the average of the standard deviation of the time domain signal from the accelerometer for the gravity acceleration signal along the y-axis.
@@ -277,7 +277,7 @@ This variable contains the average of the standard deviation of the time domain 
   * Sensor acceleration signal: gravity
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 14: time-gravity-accelerometer-standdev-z-axis              
 This variable contains the average of the standard deviation of the time domain signal from the accelerometer for the gravity acceleration signal along the z-axis.
@@ -289,7 +289,7 @@ This variable contains the average of the standard deviation of the time domain 
   * Sensor acceleration signal: gravity
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 15: time-body-accelerometer-jerk-mean-x-axis                
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the accelerometer using the body acceleration signal along the x-axis.
@@ -302,7 +302,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 16: time-body-accelerometer-jerk-mean-y-axis                
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the accelerometer using the body acceleration signal along the y-axis.
@@ -315,7 +315,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 17: time-body-accelerometer-jerk-mean-z-axis                
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the accelerometer using the body acceleration signal along the z-axis.
@@ -328,7 +328,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 18: time-body-accelerometer-jerk-standdev-x-axis            
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the accelerometer using the body acceleration signal along the x-axis.
@@ -341,7 +341,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 19: time-body-accelerometer-jerk-standdev-y-axis            
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the accelerometer using the body acceleration signal along the y-axis.
@@ -354,7 +354,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 20: time-body-accelerometer-jerk-standdev-z-axis            
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the accelerometer using the body acceleration signal along the z-axis.
@@ -367,7 +367,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 21: time-body-gyroscope-mean-x-axis                         
 This variable contains the average of the mean time domain signal from the gyroscope using the body acceleration signal along the x-axis.
@@ -379,7 +379,7 @@ This variable contains the average of the mean time domain signal from the gyros
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 22: time-body-gyroscope-mean-y-axis                         
 This variable contains the average of the mean time domain signal from the gyroscope using the body acceleration signal along the y-axis.
@@ -391,7 +391,7 @@ This variable contains the average of the mean time domain signal from the gyros
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 23: time-body-gyroscope-mean-z-axis                         
 This variable contains the average of the mean time domain signal from the gyroscope using the body acceleration signal along the z-axis.
@@ -403,7 +403,7 @@ This variable contains the average of the mean time domain signal from the gyros
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 24: time-body-gyroscope-standdev-x-axis                     
 This variable contains the average of the standard deviation time domain signal from the gyroscope using the body acceleration signal along the x-axis.
@@ -415,7 +415,7 @@ This variable contains the average of the standard deviation time domain signal 
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 25: time-body-gyroscope-standdev-y-axis                     
 This variable contains the average of the standard deviation time domain signal from the gyroscope using the body acceleration signal along the y-axis.
@@ -427,7 +427,7 @@ This variable contains the average of the standard deviation time domain signal 
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 26: time-body-gyroscope-standdev-z-axis                     
 This variable contains the average of the standard deviation time domain signal from the gyroscope using the body acceleration signal along the z-axis.
@@ -439,7 +439,7 @@ This variable contains the average of the standard deviation time domain signal 
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 27: time-body-gyroscope-jerk-mean-x-axis                    
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the gyroscope using the body acceleration signal along the x-axis.
@@ -452,7 +452,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: gyroscope
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 28: time-body-gyroscope-jerk-mean-y-axis                    
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the gyroscope using the body acceleration signal along the y-axis.
@@ -465,7 +465,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: gyroscope
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 29: time-body-gyroscope-jerk-mean-z-axis                    
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the gyroscope using the body acceleration signal along the z-axis.
@@ -478,7 +478,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: gyroscope
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 30: time-body-gyroscope-jerk-standdev-x-axis                
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the gyroscope using the body acceleration signal along the x-axis.
@@ -491,7 +491,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: gyroscope
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 31: time-body-gyroscope-jerk-standdev-y-axis                
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the gyroscope using the body acceleration signal along the y-axis.
@@ -504,7 +504,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: gyroscope
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 32: time-body-gyroscope-jerk-standdev-z-axis                
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the time domain from the gyroscope using the body acceleration signal along the z-axis.
@@ -517,7 +517,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: gyroscope
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 33: time-body-accelerometer-magnitude-mean                  
 This variable contains the average of the mean of the magnitude signal (calculated using the Euclidean norm) for the time domain from the accelerometer using the body acceleration signal.
@@ -653,7 +653,7 @@ This variable contains the average of the mean frequency domain signal from the 
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 44: frequency-body-accelerometer-mean-y-axis                
 This variable contains the average of the mean frequency domain signal from the accelerometer using the body acceleration signal along the y-axis.
@@ -665,7 +665,7 @@ This variable contains the average of the mean frequency domain signal from the 
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 45: frequency-body-accelerometer-mean-z-axis                
 This variable contains the average of the mean frequency domain signal from the accelerometer using the body acceleration signal along the z-axis.
@@ -677,7 +677,7 @@ This variable contains the average of the mean frequency domain signal from the 
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 46: frequency-body-accelerometer-standdev-x-axis            
 This variable contains the average of the standard deviation frequency domain signal from the accelerometer using the body acceleration signal along the x-axis.
@@ -689,7 +689,7 @@ This variable contains the average of the standard deviation frequency domain si
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 47: frequency-body-accelerometer-standdev-y-axis            
 This variable contains the average of the standard deviation frequency domain signal from the accelerometer using the body acceleration signal along the y-axis.
@@ -701,7 +701,7 @@ This variable contains the average of the standard deviation frequency domain si
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 48: frequency-body-accelerometer-standdev-z-axis            
 This variable contains the average of the standard deviation frequency domain signal from the accelerometer using the body acceleration signal along the z-axis.
@@ -713,7 +713,7 @@ This variable contains the average of the standard deviation frequency domain si
   * Sensor acceleration signal: body
   * Sensor signal: accelerometer
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 49: frequency-body-accelerometer-jerk-mean-x-axis           
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the x-axis.
@@ -726,7 +726,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 50: frequency-body-accelerometer-jerk-mean-y-axis           
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the y-axis.
@@ -739,7 +739,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 51: frequency-body-accelerometer-jerk-mean-z-axis           
 This variable contains the average of the mean of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the z-axis.
@@ -752,7 +752,7 @@ This variable contains the average of the mean of the Jerk signal (derived from 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 52: frequency-body-accelerometer-jerk-standdev-x-axis       
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the x-axis.
@@ -765,7 +765,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 53: frequency-body-accelerometer-jerk-standdev-y-axis       
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the y-axis.
@@ -778,7 +778,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 54: frequency-body-accelerometer-jerk-standdev-z-axis       
 This variable contains the average of the standard deviation of the Jerk signal (derived from the body linear acceleration and angular velocity) for the frequency domain from the accelerometer using the body acceleration signal along the z-axis.
@@ -791,7 +791,7 @@ This variable contains the average of the standard deviation of the Jerk signal 
   * Sensor signal: accelerometer
   * Signal derivation: jerk
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 55: frequency-body-gyroscope-mean-x-axis                    
 This variable contains the average of the mean frequency domain signal from the gyroscope using the body acceleration signal along the x-axis.
@@ -803,7 +803,7 @@ This variable contains the average of the mean frequency domain signal from the 
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: mean
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 56: frequency-body-gyroscope-mean-y-axis                    
 This variable contains the average of the mean frequency domain signal from the gyroscope using the body acceleration signal along the y-axis.
@@ -815,7 +815,7 @@ This variable contains the average of the mean frequency domain signal from the 
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: mean
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 57: frequency-body-gyroscope-mean-z-axis                    
 This variable contains the average of the mean frequency domain signal from the gyroscope using the body acceleration signal along the z-axis.
@@ -827,7 +827,7 @@ This variable contains the average of the mean frequency domain signal from the 
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: mean
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 58: frequency-body-gyroscope-standdev-x-axis                
 This variable contains the average of the standard deviation frequency domain signal from the gyroscope using the body acceleration signal along the x-axis.
@@ -839,7 +839,7 @@ This variable contains the average of the standard deviation frequency domain si
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: standard deviation
-* Axis: x-axis
+  * Axis: x-axis
 
 ###Variable 59: frequency-body-gyroscope-standdev-y-axis                
 This variable contains the average of the standard deviation frequency domain signal from the gyroscope using the body acceleration signal along the y-axis.
@@ -851,7 +851,7 @@ This variable contains the average of the standard deviation frequency domain si
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: standard deviation
-* Axis: y-axis
+  * Axis: y-axis
 
 ###Variable 60: frequency-body-gyroscope-standdev-z-axis                
 This variable contains the average of the standard deviation frequency domain signal from the gyroscope using the body acceleration signal along the z-axis.
@@ -863,7 +863,7 @@ This variable contains the average of the standard deviation frequency domain si
   * Sensor acceleration signal: body
   * Sensor signal: gyroscope
   * Calculation: standard deviation
-* Axis: z-axis
+  * Axis: z-axis
 
 ###Variable 61: frequency-body-accelerometer-magnitude-mean             
 This variable contains the average of the mean of the magnitude signal (calculated using the Euclidean norm) for the frequency domain from the accelerometer using the body acceleration signal.
