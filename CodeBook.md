@@ -53,7 +53,7 @@ The following steps are taken to clean the data a create the tidy data set:
 4. The data set columns are labeled with descriptive variable names. 
 5. A tidy data set is created with the average of each variable for each activity and each subject.
 
-For more information, please see README.md(https://github.com/bgulbis/AccelerometerProject/blob/master/README.md)
+For more information, please see [README.md](https://github.com/bgulbis/AccelerometerProject/blob/master/README.md)
  
 ##Description of the variables in the tidy_data.txt file
 The data set contained in the tidy_data.txt file uses a wide form of tidy data which contains 180 observations of 68 variables. The variables contain the average of each measurement from the original data which was a mean or standard deviation, grouped by activity and subject.
