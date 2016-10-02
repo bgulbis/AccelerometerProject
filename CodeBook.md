@@ -42,16 +42,16 @@ Within both the train and test data sets are three files:
 The following steps should be taken to create the tidy data file:
 
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-2. Unzip the file and extract into a folder called "UCI HAR Dataset" within the working directory of the run_analysis.R script.
-3. In R, open the file run\_analysis.R and source the script. This will clean the data and create the tidy dataset.
+1. Unzip the file and extract into a folder called "UCI HAR Dataset" within the working directory of the run_analysis.R script.
+1. In R, open the file run\_analysis.R and source the script. This will clean the data and create the tidy dataset.
 
 ###Cleaning of the data
 The following steps are taken to clean the data a create the tidy data set:
 1. The training and the test data sets are merged to create one data set.
-2. For each measurement, the mean and standard deviation measures are extracted.
-3. The activities are renamed with descriptive activity names.
-4. The data set columns are labeled with descriptive variable names. 
-5. A tidy data set is created with the average of each variable for each activity and each subject.
+1. For each measurement, the mean and standard deviation measures are extracted.
+1. The activities are renamed with descriptive activity names.
+1. The data set columns are labeled with descriptive variable names. 
+1. A tidy data set is created with the average of each variable for each activity and each subject.
 
 For more information, please see [README.md](https://github.com/bgulbis/AccelerometerProject/blob/master/README.md)
  
@@ -61,73 +61,73 @@ The data set contained in the tidy_data.txt file uses a wide form of tidy data w
 The variables in the data set are:
 
 1. person
-2. activity
-3. time-body-accelerometer-mean-x-axis                     
-4. time-body-accelerometer-mean-y-axis                     
-5. time-body-accelerometer-mean-z-axis                     
-6. time-body-accelerometer-standdev-x-axis                 
-7. time-body-accelerometer-standdev-y-axis                 
-8. time-body-accelerometer-standdev-z-axis                 
-9. time-gravity-accelerometer-mean-x-axis                  
-10. time-gravity-accelerometer-mean-y-axis                  
-11. time-gravity-accelerometer-mean-z-axis                  
-12. time-gravity-accelerometer-standdev-x-axis              
-13. time-gravity-accelerometer-standdev-y-axis              
-14. time-gravity-accelerometer-standdev-z-axis              
-15. time-body-accelerometer-jerk-mean-x-axis                
-16. time-body-accelerometer-jerk-mean-y-axis                
-17. time-body-accelerometer-jerk-mean-z-axis                
-18. time-body-accelerometer-jerk-standdev-x-axis            
-19. time-body-accelerometer-jerk-standdev-y-axis            
-20. time-body-accelerometer-jerk-standdev-z-axis            
-21. time-body-gyroscope-mean-x-axis                         
-22. time-body-gyroscope-mean-y-axis                         
-23. time-body-gyroscope-mean-z-axis                         
-24. time-body-gyroscope-standdev-x-axis                     
-25. time-body-gyroscope-standdev-y-axis                     
-26. time-body-gyroscope-standdev-z-axis                     
-27. time-body-gyroscope-jerk-mean-x-axis                    
-28. time-body-gyroscope-jerk-mean-y-axis                    
-29. time-body-gyroscope-jerk-mean-z-axis                    
-30. time-body-gyroscope-jerk-standdev-x-axis                
-31. time-body-gyroscope-jerk-standdev-y-axis                
-32. time-body-gyroscope-jerk-standdev-z-axis                
-33. time-body-accelerometer-magnitude-mean                  
-34. time-body-accelerometer-magnitude-standdev              
-35. time-gravity-accelerometer-magnitude-mean               
-36. time-gravity-accelerometer-magnitude-standdev           
-37. time-body-accelerometer-jerk-magnitude-mean             
-38. time-body-accelerometer-jerk-magnitude-standdev         
-39. time-body-gyroscope-magnitude-mean                      
-40. time-body-gyroscope-magnitude-standdev                  
-41. time-body-gyroscope-jerk-magnitude-mean                 
-42. time-body-gyroscope-jerk-magnitude-standdev             
-43. frequency-body-accelerometer-mean-x-axis                
-44. frequency-body-accelerometer-mean-y-axis                
-45. frequency-body-accelerometer-mean-z-axis                
-46. frequency-body-accelerometer-standdev-x-axis            
-47. frequency-body-accelerometer-standdev-y-axis            
-48. frequency-body-accelerometer-standdev-z-axis            
-49. frequency-body-accelerometer-jerk-mean-x-axis           
-50. frequency-body-accelerometer-jerk-mean-y-axis           
-51. frequency-body-accelerometer-jerk-mean-z-axis           
-52. frequency-body-accelerometer-jerk-standdev-x-axis       
-53. frequency-body-accelerometer-jerk-standdev-y-axis       
-54. frequency-body-accelerometer-jerk-standdev-z-axis       
-55. frequency-body-gyroscope-mean-x-axis                    
-56. frequency-body-gyroscope-mean-y-axis                    
-57. frequency-body-gyroscope-mean-z-axis                    
-58. frequency-body-gyroscope-standdev-x-axis                
-59. frequency-body-gyroscope-standdev-y-axis                
-60. frequency-body-gyroscope-standdev-z-axis                
-61. frequency-body-accelerometer-magnitude-mean             
-62. frequency-body-accelerometer-magnitude-standdev         
-63. frequency-body-accelerometer-jerk-magnitude-mean    
-64. frequency-body-accelerometer-jerk-magnitude-standdev
-65. frequency-body-gyroscope-magnitude-mean             
-66. frequency-body-gyroscope-magnitude-standdev         
-67. frequency-body-gyroscope-jerk-magnitude-mean        
-68. frequency-body-gyroscope-jerk-magnitude-standdev 
+1. activity
+1. time-body-accelerometer-mean-x-axis                     
+1. time-body-accelerometer-mean-y-axis                     
+1. time-body-accelerometer-mean-z-axis                     
+1. time-body-accelerometer-standdev-x-axis                 
+1. time-body-accelerometer-standdev-y-axis                 
+1. time-body-accelerometer-standdev-z-axis                 
+1. time-gravity-accelerometer-mean-x-axis                  
+1. time-gravity-accelerometer-mean-y-axis                  
+1. time-gravity-accelerometer-mean-z-axis                  
+1. time-gravity-accelerometer-standdev-x-axis              
+1. time-gravity-accelerometer-standdev-y-axis              
+1. time-gravity-accelerometer-standdev-z-axis              
+1. time-body-accelerometer-jerk-mean-x-axis                
+1. time-body-accelerometer-jerk-mean-y-axis                
+1. time-body-accelerometer-jerk-mean-z-axis                
+1. time-body-accelerometer-jerk-standdev-x-axis            
+1. time-body-accelerometer-jerk-standdev-y-axis            
+1. time-body-accelerometer-jerk-standdev-z-axis            
+1. time-body-gyroscope-mean-x-axis                         
+1. time-body-gyroscope-mean-y-axis                         
+1. time-body-gyroscope-mean-z-axis                         
+1. time-body-gyroscope-standdev-x-axis                     
+1. time-body-gyroscope-standdev-y-axis                     
+1. time-body-gyroscope-standdev-z-axis                     
+1. time-body-gyroscope-jerk-mean-x-axis                    
+1. time-body-gyroscope-jerk-mean-y-axis                    
+1. time-body-gyroscope-jerk-mean-z-axis                    
+1. time-body-gyroscope-jerk-standdev-x-axis                
+1. time-body-gyroscope-jerk-standdev-y-axis                
+1. time-body-gyroscope-jerk-standdev-z-axis                
+1. time-body-accelerometer-magnitude-mean                  
+1. time-body-accelerometer-magnitude-standdev              
+1. time-gravity-accelerometer-magnitude-mean               
+1. time-gravity-accelerometer-magnitude-standdev           
+1. time-body-accelerometer-jerk-magnitude-mean             
+1. time-body-accelerometer-jerk-magnitude-standdev         
+1. time-body-gyroscope-magnitude-mean                      
+1. time-body-gyroscope-magnitude-standdev                  
+1. time-body-gyroscope-jerk-magnitude-mean                 
+1. time-body-gyroscope-jerk-magnitude-standdev             
+1. frequency-body-accelerometer-mean-x-axis                
+1. frequency-body-accelerometer-mean-y-axis                
+1. frequency-body-accelerometer-mean-z-axis                
+1. frequency-body-accelerometer-standdev-x-axis            
+1. frequency-body-accelerometer-standdev-y-axis            
+1. frequency-body-accelerometer-standdev-z-axis            
+1. frequency-body-accelerometer-jerk-mean-x-axis           
+1. frequency-body-accelerometer-jerk-mean-y-axis           
+1. frequency-body-accelerometer-jerk-mean-z-axis           
+1. frequency-body-accelerometer-jerk-standdev-x-axis       
+1. frequency-body-accelerometer-jerk-standdev-y-axis       
+1. frequency-body-accelerometer-jerk-standdev-z-axis       
+1. frequency-body-gyroscope-mean-x-axis                    
+1. frequency-body-gyroscope-mean-y-axis                    
+1. frequency-body-gyroscope-mean-z-axis                    
+1. frequency-body-gyroscope-standdev-x-axis                
+1. frequency-body-gyroscope-standdev-y-axis                
+1. frequency-body-gyroscope-standdev-z-axis                
+1. frequency-body-accelerometer-magnitude-mean             
+1. frequency-body-accelerometer-magnitude-standdev         
+1. frequency-body-accelerometer-jerk-magnitude-mean    
+1. frequency-body-accelerometer-jerk-magnitude-standdev
+1. frequency-body-gyroscope-magnitude-mean             
+1. frequency-body-gyroscope-magnitude-standdev         
+1. frequency-body-gyroscope-jerk-magnitude-mean        
+1. frequency-body-gyroscope-jerk-magnitude-standdev 
  
 ###Variable 1: person
 This variable contains the subject identification number.
