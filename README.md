@@ -7,8 +7,8 @@ The goal of this project is to create a script which will tidy-up data from the 
 The following steps should be taken to create the tidy data file:
 
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-2. Unzip the file and extract into a folder called "UCI HAR Dataset" within the working directory of the run\_analysis.R script.
-3. In R, open the file run\_analysis.R and source the script. This will clean the data and create the tidy dataset.
+1. Unzip the file and extract into a folder called "UCI HAR Dataset" within the working directory of the run\_analysis.R script.
+1. In R, open the file run\_analysis.R and source the script. This will clean the data and create the tidy dataset.
 
 ## Description of run\_analysis.R script
 This script performs the following actions:
