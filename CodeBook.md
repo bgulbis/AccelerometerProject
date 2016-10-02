@@ -1,10 +1,9 @@
 ---
 title: CodeBook.md
-author: Brian
-date: 4/18/2015
+author: Brian Gulbis
+date: 10/2/2016
 output:
-  html_document: no
-    keep_md: yes
+  github_document: default
 ---
  
 ## Project Description
